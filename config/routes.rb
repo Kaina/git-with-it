@@ -1,8 +1,12 @@
 GitWithIt::Application.routes.draw do
+<<<<<<< HEAD
 
   resources :posts
   resources :comments
 
+=======
+  resources :comments
+>>>>>>> 8fe411d... added comments controller, model, and routes
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
